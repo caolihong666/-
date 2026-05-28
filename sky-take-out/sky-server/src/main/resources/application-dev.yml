@@ -8,10 +8,10 @@ sky:
     password: your_password
     url: jdbc:mysql://localhost:3306/sky_take_out?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
   alioss:
-    endpoint: https://oss-cn-shenzhen.aliyuncs.com
+    endpoint: https://your-oss-endpoint.aliyuncs.com
     access-key-id: your_access_key_id
     access-key-secret: your_access_key_secret
-    bucket-name: sky-take-out-dfs
+    bucket-name: your-bucket-name
   redis:
     host: localhost
     port: 6379
