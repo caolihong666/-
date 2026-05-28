@@ -1,0 +1,27 @@
+# Compiled outputs
+**/target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/settings.json
+
+# Dependencies
+**/node-modules/
+node_modules/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+*Test.java
+**/test/
+
+# Sensitive configs (backup)
+application-prod.yml
+application-local.yml
