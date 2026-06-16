@@ -1,6 +1,6 @@
 {
   "navigationStyle": "custom",
-  "navigationBarTitleText": "餐饮商家一体化管理系统",
+  "navigationBarTitleText": "餐饮业一体化管理系统",
   "usingComponents": {
     "nav-bar": "/pages/common/Navbar/navbar",
     "phone": "/components/uni-phone/index"

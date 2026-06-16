@@ -55,9 +55,9 @@ public class WebMvcConfiguration extends WebMvcConfigurationSupport {
     public Docket docket() {
         log.info("准备生成接口文档...");
         ApiInfo apiInfo = new ApiInfoBuilder()
-                .title("智点外卖项目接口文档")
+                .title("餐饮业一体化管理系统接口文档")
                 .version("2.0")
-                .description("智点外卖项目接口文档")
+                .description("餐饮业一体化管理系统接口文档")
                 .build();
         Docket docket = new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo)

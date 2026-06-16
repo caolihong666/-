@@ -1,0 +1,6 @@
+# Redis 运行时数据文件
+dump.rdb
+*.rdb
+appendonly.aof
+*.aof
+.cursor/

@@ -42,7 +42,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.19.6",
   "appid": "your_wechat_appid",
-  "projectname": "餐饮商家一体化管理系统",
+  "projectname": "餐饮业一体化管理系统",
   "condition": {},
   "editorSetting": {
     "tabIndent": "insertSpaces",
